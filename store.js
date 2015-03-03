@@ -2,31 +2,17 @@ var posts = [
   {
     id: '1',
     title: "I love blood",
-    body: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-    accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo
-    inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-    Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-    sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. N"
+    body: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. N"
   },
   {
     id: '2',
     title: "The count",
-    body: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-    accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae
-    ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt
-    explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-    odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-    voluptatem sequi nesciunt. N"
+    body: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit aut fugit, sed quia consequuntur magni dolores eos qui rationevoluptatem sequi nesciunt. N"
   },
   {
     id: '3',
     title: "Something else",
-    body: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-    accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae
-    ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt
-    explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-    odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-    voluptatem sequi nesciunt. N"
+    body: "Sed ut perspiciatis unde omnis iste natus error sit voluptatemaccusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeab illo inventore veritatis et quasi architecto beatae vitae dicta suntexplicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit aut fugit, sed quia consequuntur magni dolores eos qui rationevoluptatem sequi nesciunt. N"
   }
 ];
 
